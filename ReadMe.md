@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blockchain technologies<br>👯 I’m looking to collaborate on Hyperledger fabric hosted projects<br>🤝 I’m looking for help with Open Source hackathons and NFT projects<br>🌱 I’m currently learning Solidity and Rust<br>💬 Ask me about Web3<br>⚡ Fun fact - I keep the night mode on at all times
+🔭 I’m currently working on Data Analysis<br>👯 I’m looking to collaborate on Hyperledger fabric hosted projects<br>🤝 I’m looking for help with Open Source hackathons and Data Science<br>🌱 I’m currently learning Cognos and Power BI<br>💬 Ask me about Excel<br>⚡ Fun fact - I keep the night mode on at all times
 
 
 ## 🌐 Socials:
@@ -27,4 +27,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SaatvikYadav12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
